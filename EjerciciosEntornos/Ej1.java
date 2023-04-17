@@ -1,3 +1,4 @@
+package EjerciciosEntornos;
 public class Ej1 {
 
 double potentialEnergy(double mass, double height) {
